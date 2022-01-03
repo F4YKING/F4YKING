@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @F4YKING
 - 👀 I’m interested in ROBLOX
 - 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on (n/a)
+- 💞️ I’m doing commission
 - 📫 How to reach fayking#8312
 
 <!---
