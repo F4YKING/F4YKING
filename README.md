@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @F4YKING
-- 👀 I’m interested in ROBLOX
-- 🌱 I’m currently learning Lua
-- 💞️ I’m doing commission
-- 📫 How to reach fayking#8312
+- 👀 I’m interested in Roblox Development / Website
+- 🌱 I’m currently learning HTML & CSS
+- 📫 How to reach {Discord: "fayking#8312", Twitter: "@faykingW"}
 
 <!---
 F4YKING/F4YKING is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
